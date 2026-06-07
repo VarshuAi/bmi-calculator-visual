@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Calculate Body Mass Index and check diagnostic fitness scale cards.
+  name: bmi-calculator-visual version: 1.0 type: Repository author: VarshuAi description: >   Calculate Body Mass Index and check diagnostic fitness scale cards. primary_tech: CSS
 primary_tech: CSS
 ```
 
